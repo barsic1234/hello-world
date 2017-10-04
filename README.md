@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Привет мир!
+
+Это мой первый репозиторий кода. Он содержит программу hello world.
